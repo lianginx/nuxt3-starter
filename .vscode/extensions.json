@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "GARAIOAG.garaio-vscode-unwanted-recommendations",
+    "dbaeumer.vscode-eslint",
+    "vue.vscode-typescript-vue-plugin",
+    "vue.volar",
+    "antfu.unocss",
+    "nuxtr.nuxtr-vscode"
+  ],
+  "unwantedRecommendations": [
+    "vscode.typescript-language-features"
+  ]
+}

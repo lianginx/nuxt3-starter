@@ -1,5 +1,13 @@
 <template>
   <div class="">
-    <NuxtWelcome />
+    <!-- <NuxtWelcome /> -->
+    <ol>
+      <li>
+        hello
+      </li>
+      <li>
+        world
+      </li>
+    </ol>
   </div>
 </template>

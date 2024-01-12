@@ -1,6 +1,7 @@
 {
-  "name": "s-link",
+  "name": "nuxt3-starter",
   "type": "module",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -11,18 +12,21 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
-  "dependencies": {
-    "@unocss/nuxt": "^0.58.0"
-  },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.3.4",
+    "@antfu/eslint-config": "latest",
+    "@iconify-json/mdi": "^1.1.64",
     "@nuxt/devtools": "latest",
-    "@unocss/eslint-plugin": "^0.58.0",
-    "eslint": "^8.55.0",
+    "@unocss/eslint-plugin": "^0.58.3",
+    "@unocss/nuxt": "^0.58.3",
+    "@vueuse/core": "^10.7.1",
+    "@vueuse/nuxt": "^10.7.1",
+    "eslint": "^8.56.0",
+    "eslint-plugin-format": "latest",
     "lint-staged": "^15.2.0",
-    "nuxt": "^3.8.2",
+    "nuxt": "^3.9.1",
     "simple-git-hooks": "^2.9.0",
-    "vue": "^3.3.10",
+    "unplugin-icons": "^0.18.2",
+    "vue": "^3.4.8",
     "vue-router": "^4.2.5"
   },
   "simple-git-hooks": {

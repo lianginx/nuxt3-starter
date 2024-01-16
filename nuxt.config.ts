@@ -4,6 +4,9 @@ export default defineNuxtConfig({
   css: [
     '@unocss/reset/tailwind-compat.css',
   ],
+  runtimeConfig: {
+    secret: '',
+  },
   modules: [
     '@unocss/nuxt',
     'unplugin-icons/nuxt',
